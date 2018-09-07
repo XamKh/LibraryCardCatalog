@@ -1,0 +1,11 @@
+C:\Users\chopc\OneDrive\Desktop\codingtemple\LibraryCardCatalog\LibraryCardCatalog\LibraryCardCatalog\bin\Debug\netcoreapp2.1\LibraryCardCatalog.deps.json
+C:\Users\chopc\OneDrive\Desktop\codingtemple\LibraryCardCatalog\LibraryCardCatalog\LibraryCardCatalog\bin\Debug\netcoreapp2.1\LibraryCardCatalog.runtimeconfig.json
+C:\Users\chopc\OneDrive\Desktop\codingtemple\LibraryCardCatalog\LibraryCardCatalog\LibraryCardCatalog\bin\Debug\netcoreapp2.1\LibraryCardCatalog.runtimeconfig.dev.json
+C:\Users\chopc\OneDrive\Desktop\codingtemple\LibraryCardCatalog\LibraryCardCatalog\LibraryCardCatalog\bin\Debug\netcoreapp2.1\LibraryCardCatalog.dll
+C:\Users\chopc\OneDrive\Desktop\codingtemple\LibraryCardCatalog\LibraryCardCatalog\LibraryCardCatalog\bin\Debug\netcoreapp2.1\LibraryCardCatalog.pdb
+C:\Users\chopc\OneDrive\Desktop\codingtemple\LibraryCardCatalog\LibraryCardCatalog\LibraryCardCatalog\obj\Debug\netcoreapp2.1\LibraryCardCatalog.csprojAssemblyReference.cache
+C:\Users\chopc\OneDrive\Desktop\codingtemple\LibraryCardCatalog\LibraryCardCatalog\LibraryCardCatalog\obj\Debug\netcoreapp2.1\LibraryCardCatalog.csproj.CoreCompileInputs.cache
+C:\Users\chopc\OneDrive\Desktop\codingtemple\LibraryCardCatalog\LibraryCardCatalog\LibraryCardCatalog\obj\Debug\netcoreapp2.1\LibraryCardCatalog.AssemblyInfoInputs.cache
+C:\Users\chopc\OneDrive\Desktop\codingtemple\LibraryCardCatalog\LibraryCardCatalog\LibraryCardCatalog\obj\Debug\netcoreapp2.1\LibraryCardCatalog.AssemblyInfo.cs
+C:\Users\chopc\OneDrive\Desktop\codingtemple\LibraryCardCatalog\LibraryCardCatalog\LibraryCardCatalog\obj\Debug\netcoreapp2.1\LibraryCardCatalog.dll
+C:\Users\chopc\OneDrive\Desktop\codingtemple\LibraryCardCatalog\LibraryCardCatalog\LibraryCardCatalog\obj\Debug\netcoreapp2.1\LibraryCardCatalog.pdb
