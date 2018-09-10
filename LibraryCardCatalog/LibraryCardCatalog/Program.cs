@@ -37,6 +37,7 @@ namespace LibraryCardCatalog
 
             while (true)
             {
+                Console.Clear();
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("1. List All Books\n" +
                     "2. Add A Book\n" +

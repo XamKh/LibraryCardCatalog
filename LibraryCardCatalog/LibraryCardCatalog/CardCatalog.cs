@@ -58,7 +58,7 @@ namespace LibraryCardCatalog
             string title = "";
             string author = "";
             int year = 0;
-
+            Console.Clear();
             Console.Write("Please input the Title of the book: ");
             title = Console.ReadLine();
 
